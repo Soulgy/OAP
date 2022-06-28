@@ -1,0 +1,14 @@
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\bin\Debug\netcoreapp3.1\difzach_var1.exe
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\bin\Debug\netcoreapp3.1\difzach_var1.deps.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\bin\Debug\netcoreapp3.1\difzach_var1.runtimeconfig.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\bin\Debug\netcoreapp3.1\difzach_var1.runtimeconfig.dev.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\bin\Debug\netcoreapp3.1\difzach_var1.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\bin\Debug\netcoreapp3.1\difzach_var1.pdb
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.csproj.AssemblyReference.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.AssemblyInfoInputs.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.AssemblyInfo.cs
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.csproj.CoreCompileInputs.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.pdb
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Соулджи Кузька\difzach_var1\obj\Debug\netcoreapp3.1\difzach_var1.genruntimeconfig.cache
